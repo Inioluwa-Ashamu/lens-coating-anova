@@ -1,4 +1,4 @@
-# Statistical Analysis Case Studies
+# Lens Coating ANOVA
 
 Classical statistical analysis in R, focused on experimental comparison and evidence-based recommendation.
 
