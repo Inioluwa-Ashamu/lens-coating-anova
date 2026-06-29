@@ -1,12 +1,12 @@
 # Statistical Analysis Case Studies
 
-Small portfolio repo demonstrating classical statistical analysis in R.
+Classical statistical analysis in R, focused on experimental comparison and evidence-based recommendation.
 
 ## Case Study: Lens Coating Abrasion
 
-A glass manufacturer wants to compare four protective lens coatings after simulated abrasion. Lower impairment values indicate better scratch resistance.
+A glass manufacturer compares four protective lens coatings after simulated abrasion. Lower impairment values indicate stronger scratch resistance.
 
-## Methods
+## Method
 
 - Descriptive statistics by coating.
 - Boxplot comparison.
@@ -17,7 +17,9 @@ A glass manufacturer wants to compare four protective lens coatings after simula
 
 ## Finding
 
-The analysis recommends **Coating D** because it has the lowest mean impairment and lower variability. ANOVA indicates statistically significant differences between coatings, and Tukey HSD confirms Coating D performs significantly better than A, B, and C.
+![Lens coating boxplot](docs/assets/lens_coating_boxplot.svg)
+
+The analysis recommends **Coating D**. It has the lowest mean impairment score, the lowest variability, and statistically significant improvements over the other coatings under Tukey HSD comparisons.
 
 ## Repository Structure
 
@@ -31,7 +33,7 @@ The analysis recommends **Coating D** because it has the lowest mean impairment 
 └── README.md
 ```
 
-## How to Run
+## Run
 
 Open R or RStudio from the repository root and run:
 
@@ -39,6 +41,6 @@ Open R or RStudio from the repository root and run:
 source("R/lens_coating_anova.R")
 ```
 
-## Portfolio Value
+## Interpretation
 
-This is a supporting project, useful for showing statistical reasoning and experimental comparison. It should not be a pinned flagship repo unless paired with other statistics examples.
+The analysis uses hypothesis testing to move from visual impression to defensible recommendation: first checking assumptions, then testing whether group means differ, then identifying which coatings differ materially.

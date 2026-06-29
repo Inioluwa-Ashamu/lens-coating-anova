@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="48" y="56" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="700" fill="#111827" text-anchor="start">Lens Coating Abrasion Analysis</text>
+<text x="48" y="84" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400" fill="#475569" text-anchor="start">Lower impairment is better. Coating D has the strongest scratch-resistance profile.</text>
+<text x="70" y="143" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Coating A</text>
+<line x1="273.3" y1="135" x2="443.3" y2="135" stroke="#334155" stroke-width="2"/>
+<rect x="301.7" y="115" width="113.3" height="40" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<line x1="386.7" y1="111" x2="386.7" y2="159" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="370.5" cy="135" r="5" fill="#dc2626"/>
+<text x="870" y="140" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#334155" text-anchor="start">mean 3.94</text>
+<text x="70" y="221" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Coating B</text>
+<line x1="358.3" y1="213" x2="500.0" y2="213" stroke="#334155" stroke-width="2"/>
+<rect x="386.7" y="193" width="85.0" height="40" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<line x1="443.3" y1="189" x2="443.3" y2="237" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="431.2" cy="213" r="5" fill="#dc2626"/>
+<text x="870" y="218" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#334155" text-anchor="start">mean 4.16</text>
+<text x="70" y="299" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Coating C</text>
+<line x1="613.3" y1="291" x2="840.0" y2="291" stroke="#334155" stroke-width="2"/>
+<rect x="641.7" y="271" width="113.3" height="40" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<line x1="698.3" y1="267" x2="698.3" y2="315" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="710.5" cy="291" r="5" fill="#dc2626"/>
+<text x="870" y="296" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#334155" text-anchor="start">mean 5.14</text>
+<text x="70" y="377" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Coating D</text>
+<line x1="160.0" y1="369" x2="245.0" y2="369" stroke="#334155" stroke-width="2"/>
+<rect x="188.3" y="349" width="56.7" height="40" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<line x1="216.7" y1="345" x2="216.7" y2="393" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="208.6" cy="369" r="5" fill="#dc2626"/>
+<text x="870" y="374" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#334155" text-anchor="start">mean 3.37</text>
+<line x1="160.0" y1="430" x2="160.0" y2="438" stroke="#64748b"/>
+<text x="160.0" y="460" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="middle">3.2</text>
+<line x1="330.0" y1="430" x2="330.0" y2="438" stroke="#64748b"/>
+<text x="329.99999999999994" y="460" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="middle">3.8</text>
+<line x1="500.0" y1="430" x2="500.0" y2="438" stroke="#64748b"/>
+<text x="500.00000000000017" y="460" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="middle">4.4</text>
+<line x1="670.0" y1="430" x2="670.0" y2="438" stroke="#64748b"/>
+<text x="670.0" y="460" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="middle">5.0</text>
+<line x1="840.0" y1="430" x2="840.0" y2="438" stroke="#64748b"/>
+<text x="840.0" y="460" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="middle">5.6</text>
+<text x="500" y="495" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#334155" text-anchor="middle">Abrasion impairment score</text>
+</svg>
